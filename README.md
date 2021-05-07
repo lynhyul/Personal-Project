@@ -8,6 +8,9 @@
 
 
 
+
 ResNet50,101 / MobileNet / VGG16,19 전이학습 모델의 ACC지수 = 0.91
-Custom모델의 ACC 지수 = 0.72
+Custom모델의 ACC 지수 = 0.71
+
+
 ![image](https://user-images.githubusercontent.com/76422150/117403348-fd75f300-af42-11eb-8682-355e338a4b9f.png)
